@@ -49,4 +49,13 @@ Yaw axis or Normal axis, vertical axis— an axis drawn from top to bottom, and 
 
 ![RPY_Explained](https://user-images.githubusercontent.com/51810591/128364084-79b516a7-f136-4197-ad1c-44588d5e3a51.jpg)
 
- 
+## Hardware Used:
+1)Nodemcu ESP 8266
+2)MPU-6050 Sensor
+3)Red LED
+4)1 kΩ Resistor
+5)Jumper Wires
+
+### Circuit Connection Diagram:
+
+![MPU6050_Airplane_Alert_System](https://user-images.githubusercontent.com/51810591/128366413-b167697b-d32e-4eab-b141-1cbbdbe4f648.png)
