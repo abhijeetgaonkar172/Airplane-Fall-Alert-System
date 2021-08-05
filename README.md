@@ -9,6 +9,7 @@ MPU-6050 IC is MEMS, Micro Electromechanical System which changes the voltage de
  ![MPU6050-Pinout](https://user-images.githubusercontent.com/51810591/128363516-c0d0a1ae-6f6d-467a-8b0c-8fe4af64dca7.png)
  
 MPU-6050 Sensor is 6-Axis motion tracking device that combines a 3-Axis Gyroscope, 3-Axis Accelerometer, Temperature sensor and Digital Motion Processor (DMP).
+
 ![mpu6050_6DOF](https://user-images.githubusercontent.com/51810591/128363626-9bbc6d98-a617-4c87-a815-4a601e3a5a8f.jpg)
 
 It follows I2C Protocol.
