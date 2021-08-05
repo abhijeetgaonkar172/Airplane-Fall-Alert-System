@@ -28,7 +28,8 @@ Example: Consider a cuboidal box with a small ball inside it.
 The walls are piezo electric crystals, when the ball collides the wall its creates tiny piezoelectric current.
 3 parts of walls each corresponds to X, Y, Z Axis.
 Depending upon the current produced from the piezoelectric walls we can determine acceleration
-![Accelerometer_Working](https://user-images.githubusercontent.com/51810591/128363821-e98ab7ff-ce41-4ade-a0ee-144a5a87bc10.png)
+
+![Accelerometer_Working](https://user-images.githubusercontent.com/51810591/128364913-5dd8e6ba-97e6-4a1c-acde-75ed1a23bbf4.png)
 
 ## Gyroscope
 Gyroscope works on the principle of Coriolis Acceleration.
