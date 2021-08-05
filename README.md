@@ -1,7 +1,7 @@
 # Airplane-Fall-Alert-System
 
 ## Introduction
-In this project I have made an Airplane Fall Alert System using MPU-6050 Sensor. Basically, MPU-6050 Sensor is 6-axis motion tracking device which will detect the orientation and acceleration of the airplane body and based on this parameter certain failure conditions have been defined like extreme left, extreme right, extreme upwards and falling. Whenever these conditions will occur an alert message will be displayed on serial monitor along with red led light blinking.
+In this project I have made an Airplane Fall Alert System using MPU-6050 Sensor. Basically, MPU-6050 Sensor is 6-axis motion tracking device which will detect the orientation(i.e. roll, pitch, yaw) and acceleration of the airplane body and based on this parameter certain failure conditions have been defined like extreme left, extreme right, extreme upwards and falling. Whenever these conditions will occur an alert message will be displayed on serial monitor along with red led light blinking.
 
 ## MPU-6050 Sensor
 MPU-6050 IC is MEMS, Micro Electromechanical System which changes the voltage depending on the change in axis position.
